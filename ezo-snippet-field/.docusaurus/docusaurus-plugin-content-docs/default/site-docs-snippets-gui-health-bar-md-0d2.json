@@ -5,7 +5,7 @@
   "source": "@site/docs/snippets/gui-health-bar.md",
   "sourceDirName": "snippets",
   "slug": "/snippets/gui-health-bar",
-  "permalink": "/ezo-snippet-field/docs/snippets/gui-health-bar",
+  "permalink": "/ezo-snippet-field/snippets/gui-health-bar",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/snippets/gui-health-bar.md",
@@ -13,17 +13,17 @@
     {
       "inline": true,
       "label": "Roblox",
-      "permalink": "/ezo-snippet-field/docs/tags/roblox"
+      "permalink": "/ezo-snippet-field/tags/roblox"
     },
     {
       "inline": true,
       "label": "GUI",
-      "permalink": "/ezo-snippet-field/docs/tags/gui"
+      "permalink": "/ezo-snippet-field/tags/gui"
     },
     {
       "inline": true,
       "label": "Health",
-      "permalink": "/ezo-snippet-field/docs/tags/health"
+      "permalink": "/ezo-snippet-field/tags/health"
     }
   ],
   "version": "current",
@@ -40,6 +40,6 @@
   "sidebar": "ezoSidebar",
   "previous": {
     "title": "Save to DataStore",
-    "permalink": "/ezo-snippet-field/docs/snippets/datastore-save"
+    "permalink": "/ezo-snippet-field/snippets/datastore-save"
   }
 }

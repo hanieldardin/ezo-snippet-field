@@ -113,119 +113,129 @@ export default [
     exact: true
   },
   {
-    path: '/ezo-snippet-field/docs',
-    component: ComponentCreator('/ezo-snippet-field/docs', '059'),
+    path: '/ezo-snippet-field/',
+    component: ComponentCreator('/ezo-snippet-field/', '7e7'),
+    exact: true
+  },
+  {
+    path: '/ezo-snippet-field/',
+    component: ComponentCreator('/ezo-snippet-field/', '972'),
     routes: [
       {
-        path: '/ezo-snippet-field/docs',
-        component: ComponentCreator('/ezo-snippet-field/docs', '349'),
+        path: '/ezo-snippet-field/',
+        component: ComponentCreator('/ezo-snippet-field/', '711'),
         routes: [
           {
-            path: '/ezo-snippet-field/docs/tags',
-            component: ComponentCreator('/ezo-snippet-field/docs/tags', '855'),
+            path: '/ezo-snippet-field/tags',
+            component: ComponentCreator('/ezo-snippet-field/tags', 'ba1'),
             exact: true
           },
           {
-            path: '/ezo-snippet-field/docs/tags/beginner',
-            component: ComponentCreator('/ezo-snippet-field/docs/tags/beginner', '4a2'),
+            path: '/ezo-snippet-field/tags/beginner',
+            component: ComponentCreator('/ezo-snippet-field/tags/beginner', '7e2'),
             exact: true
           },
           {
-            path: '/ezo-snippet-field/docs/tags/data-store',
-            component: ComponentCreator('/ezo-snippet-field/docs/tags/data-store', '175'),
+            path: '/ezo-snippet-field/tags/data-store',
+            component: ComponentCreator('/ezo-snippet-field/tags/data-store', '00f'),
             exact: true
           },
           {
-            path: '/ezo-snippet-field/docs/tags/gui',
-            component: ComponentCreator('/ezo-snippet-field/docs/tags/gui', '464'),
+            path: '/ezo-snippet-field/tags/gui',
+            component: ComponentCreator('/ezo-snippet-field/tags/gui', '8be'),
             exact: true
           },
           {
-            path: '/ezo-snippet-field/docs/tags/health',
-            component: ComponentCreator('/ezo-snippet-field/docs/tags/health', '1f5'),
+            path: '/ezo-snippet-field/tags/health',
+            component: ComponentCreator('/ezo-snippet-field/tags/health', 'c6a'),
             exact: true
           },
           {
-            path: '/ezo-snippet-field/docs/tags/lua',
-            component: ComponentCreator('/ezo-snippet-field/docs/tags/lua', '1d4'),
+            path: '/ezo-snippet-field/tags/lua',
+            component: ComponentCreator('/ezo-snippet-field/tags/lua', '97d'),
             exact: true
           },
           {
-            path: '/ezo-snippet-field/docs/tags/roblox',
-            component: ComponentCreator('/ezo-snippet-field/docs/tags/roblox', 'c33'),
+            path: '/ezo-snippet-field/tags/roblox',
+            component: ComponentCreator('/ezo-snippet-field/tags/roblox', 'cfd'),
             exact: true
           },
           {
-            path: '/ezo-snippet-field/docs/tags/save',
-            component: ComponentCreator('/ezo-snippet-field/docs/tags/save', 'bb5'),
+            path: '/ezo-snippet-field/tags/save',
+            component: ComponentCreator('/ezo-snippet-field/tags/save', '613'),
             exact: true
           },
           {
-            path: '/ezo-snippet-field/docs',
-            component: ComponentCreator('/ezo-snippet-field/docs', '789'),
+            path: '/ezo-snippet-field/',
+            component: ComponentCreator('/ezo-snippet-field/', '72b'),
             routes: [
               {
-                path: '/ezo-snippet-field/docs/intro',
-                component: ComponentCreator('/ezo-snippet-field/docs/intro', '6d8'),
+                path: '/ezo-snippet-field/intro',
+                component: ComponentCreator('/ezo-snippet-field/intro', '437'),
                 exact: true,
                 sidebar: "ezoSidebar"
               },
               {
-                path: '/ezo-snippet-field/docs/snippets/click-detector',
-                component: ComponentCreator('/ezo-snippet-field/docs/snippets/click-detector', '69a'),
+                path: '/ezo-snippet-field/overview',
+                component: ComponentCreator('/ezo-snippet-field/overview', '8c8'),
+                exact: true
+              },
+              {
+                path: '/ezo-snippet-field/snippets/click-detector',
+                component: ComponentCreator('/ezo-snippet-field/snippets/click-detector', '847'),
                 exact: true,
                 sidebar: "ezoSidebar"
               },
               {
-                path: '/ezo-snippet-field/docs/snippets/datastore-save',
-                component: ComponentCreator('/ezo-snippet-field/docs/snippets/datastore-save', 'c81'),
+                path: '/ezo-snippet-field/snippets/datastore-save',
+                component: ComponentCreator('/ezo-snippet-field/snippets/datastore-save', 'a8a'),
                 exact: true,
                 sidebar: "ezoSidebar"
               },
               {
-                path: '/ezo-snippet-field/docs/snippets/gui-health-bar',
-                component: ComponentCreator('/ezo-snippet-field/docs/snippets/gui-health-bar', 'd27'),
+                path: '/ezo-snippet-field/snippets/gui-health-bar',
+                component: ComponentCreator('/ezo-snippet-field/snippets/gui-health-bar', '063'),
                 exact: true,
                 sidebar: "ezoSidebar"
               },
               {
-                path: '/ezo-snippet-field/docs/tutorial-basics/congratulations',
-                component: ComponentCreator('/ezo-snippet-field/docs/tutorial-basics/congratulations', 'd08'),
+                path: '/ezo-snippet-field/tutorial-basics/congratulations',
+                component: ComponentCreator('/ezo-snippet-field/tutorial-basics/congratulations', '764'),
                 exact: true
               },
               {
-                path: '/ezo-snippet-field/docs/tutorial-basics/create-a-blog-post',
-                component: ComponentCreator('/ezo-snippet-field/docs/tutorial-basics/create-a-blog-post', 'a45'),
+                path: '/ezo-snippet-field/tutorial-basics/create-a-blog-post',
+                component: ComponentCreator('/ezo-snippet-field/tutorial-basics/create-a-blog-post', 'c64'),
                 exact: true
               },
               {
-                path: '/ezo-snippet-field/docs/tutorial-basics/create-a-document',
-                component: ComponentCreator('/ezo-snippet-field/docs/tutorial-basics/create-a-document', '7b8'),
+                path: '/ezo-snippet-field/tutorial-basics/create-a-document',
+                component: ComponentCreator('/ezo-snippet-field/tutorial-basics/create-a-document', 'b73'),
                 exact: true
               },
               {
-                path: '/ezo-snippet-field/docs/tutorial-basics/create-a-page',
-                component: ComponentCreator('/ezo-snippet-field/docs/tutorial-basics/create-a-page', '762'),
+                path: '/ezo-snippet-field/tutorial-basics/create-a-page',
+                component: ComponentCreator('/ezo-snippet-field/tutorial-basics/create-a-page', '2c5'),
                 exact: true
               },
               {
-                path: '/ezo-snippet-field/docs/tutorial-basics/deploy-your-site',
-                component: ComponentCreator('/ezo-snippet-field/docs/tutorial-basics/deploy-your-site', 'b5e'),
+                path: '/ezo-snippet-field/tutorial-basics/deploy-your-site',
+                component: ComponentCreator('/ezo-snippet-field/tutorial-basics/deploy-your-site', 'c4c'),
                 exact: true
               },
               {
-                path: '/ezo-snippet-field/docs/tutorial-basics/markdown-features',
-                component: ComponentCreator('/ezo-snippet-field/docs/tutorial-basics/markdown-features', '4eb'),
+                path: '/ezo-snippet-field/tutorial-basics/markdown-features',
+                component: ComponentCreator('/ezo-snippet-field/tutorial-basics/markdown-features', '2f4'),
                 exact: true
               },
               {
-                path: '/ezo-snippet-field/docs/tutorial-extras/manage-docs-versions',
-                component: ComponentCreator('/ezo-snippet-field/docs/tutorial-extras/manage-docs-versions', '2d9'),
+                path: '/ezo-snippet-field/tutorial-extras/manage-docs-versions',
+                component: ComponentCreator('/ezo-snippet-field/tutorial-extras/manage-docs-versions', '61d'),
                 exact: true
               },
               {
-                path: '/ezo-snippet-field/docs/tutorial-extras/translate-your-site',
-                component: ComponentCreator('/ezo-snippet-field/docs/tutorial-extras/translate-your-site', '7df'),
+                path: '/ezo-snippet-field/tutorial-extras/translate-your-site',
+                component: ComponentCreator('/ezo-snippet-field/tutorial-extras/translate-your-site', '1f7'),
                 exact: true
               }
             ]
@@ -233,11 +243,6 @@ export default [
         ]
       }
     ]
-  },
-  {
-    path: '/ezo-snippet-field/',
-    component: ComponentCreator('/ezo-snippet-field/', '7e7'),
-    exact: true
   },
   {
     path: '*',

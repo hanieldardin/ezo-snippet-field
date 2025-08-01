@@ -5,7 +5,7 @@
   "source": "@site/docs/snippets/datastore-save.md",
   "sourceDirName": "snippets",
   "slug": "/snippets/datastore-save",
-  "permalink": "/ezo-snippet-field/docs/snippets/datastore-save",
+  "permalink": "/ezo-snippet-field/snippets/datastore-save",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/snippets/datastore-save.md",
@@ -13,17 +13,17 @@
     {
       "inline": true,
       "label": "Roblox",
-      "permalink": "/ezo-snippet-field/docs/tags/roblox"
+      "permalink": "/ezo-snippet-field/tags/roblox"
     },
     {
       "inline": true,
       "label": "DataStore",
-      "permalink": "/ezo-snippet-field/docs/tags/data-store"
+      "permalink": "/ezo-snippet-field/tags/data-store"
     },
     {
       "inline": true,
       "label": "Save",
-      "permalink": "/ezo-snippet-field/docs/tags/save"
+      "permalink": "/ezo-snippet-field/tags/save"
     }
   ],
   "version": "current",
@@ -40,10 +40,10 @@
   "sidebar": "ezoSidebar",
   "previous": {
     "title": "Click Detector",
-    "permalink": "/ezo-snippet-field/docs/snippets/click-detector"
+    "permalink": "/ezo-snippet-field/snippets/click-detector"
   },
   "next": {
     "title": "GUI Health Bar",
-    "permalink": "/ezo-snippet-field/docs/snippets/gui-health-bar"
+    "permalink": "/ezo-snippet-field/snippets/gui-health-bar"
   }
 }

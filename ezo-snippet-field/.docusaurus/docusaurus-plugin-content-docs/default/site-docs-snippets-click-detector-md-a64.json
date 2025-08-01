@@ -5,7 +5,7 @@
   "source": "@site/docs/snippets/click-detector.md",
   "sourceDirName": "snippets",
   "slug": "/snippets/click-detector",
-  "permalink": "/ezo-snippet-field/docs/snippets/click-detector",
+  "permalink": "/ezo-snippet-field/snippets/click-detector",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/snippets/click-detector.md",
@@ -13,17 +13,17 @@
     {
       "inline": true,
       "label": "Roblox",
-      "permalink": "/ezo-snippet-field/docs/tags/roblox"
+      "permalink": "/ezo-snippet-field/tags/roblox"
     },
     {
       "inline": true,
       "label": "Lua",
-      "permalink": "/ezo-snippet-field/docs/tags/lua"
+      "permalink": "/ezo-snippet-field/tags/lua"
     },
     {
       "inline": true,
       "label": "Beginner",
-      "permalink": "/ezo-snippet-field/docs/tags/beginner"
+      "permalink": "/ezo-snippet-field/tags/beginner"
     }
   ],
   "version": "current",
@@ -40,10 +40,10 @@
   "sidebar": "ezoSidebar",
   "previous": {
     "title": "Tutorial Intro",
-    "permalink": "/ezo-snippet-field/docs/intro"
+    "permalink": "/ezo-snippet-field/intro"
   },
   "next": {
     "title": "Save to DataStore",
-    "permalink": "/ezo-snippet-field/docs/snippets/datastore-save"
+    "permalink": "/ezo-snippet-field/snippets/datastore-save"
   }
 }

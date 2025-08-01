@@ -249,104 +249,108 @@
     },
     "content": "content---ezo-snippet-field-markdown-page-393-000"
   },
-  "/ezo-snippet-field/docs-059": {
-    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
-    "__context": {
-      "plugin": "plugin---ezo-snippet-field-docsaba-745"
-    }
-  },
-  "/ezo-snippet-field/docs-349": {
-    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
-    "__props": "__props---ezo-snippet-field-docse-18-61f"
-  },
-  "/ezo-snippet-field/docs/tags-855": {
-    "__comp": "__comp---theme-doc-tags-list-page-372-89e",
-    "__props": "__props---ezo-snippet-field-docs-tags-5-be-85c"
-  },
-  "/ezo-snippet-field/docs/tags/beginner-4a2": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---ezo-snippet-field-docs-tags-beginner-327-709"
-  },
-  "/ezo-snippet-field/docs/tags/data-store-175": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---ezo-snippet-field-docs-tags-data-store-542-b5c"
-  },
-  "/ezo-snippet-field/docs/tags/gui-464": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---ezo-snippet-field-docs-tags-guic-64-eea"
-  },
-  "/ezo-snippet-field/docs/tags/health-1f5": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---ezo-snippet-field-docs-tags-healthfc-1-8da"
-  },
-  "/ezo-snippet-field/docs/tags/lua-1d4": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---ezo-snippet-field-docs-tags-luaa-48-60f"
-  },
-  "/ezo-snippet-field/docs/tags/roblox-c33": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---ezo-snippet-field-docs-tags-robloxa-60-94d"
-  },
-  "/ezo-snippet-field/docs/tags/save-bb5": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__props": "__props---ezo-snippet-field-docs-tags-saveab-8-def"
-  },
-  "/ezo-snippet-field/docs-789": {
-    "__comp": "__comp---theme-doc-roota-94-67a"
-  },
-  "/ezo-snippet-field/docs/intro-6d8": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ezo-snippet-field-docs-intro-0-e-3-411"
-  },
-  "/ezo-snippet-field/docs/snippets/click-detector-69a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ezo-snippet-field-docs-snippets-click-detectora-64-f1c"
-  },
-  "/ezo-snippet-field/docs/snippets/datastore-save-c81": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ezo-snippet-field-docs-snippets-datastore-save-98-a-6cf"
-  },
-  "/ezo-snippet-field/docs/snippets/gui-health-bar-d27": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ezo-snippet-field-docs-snippets-gui-health-bar-0-d-2-8d0"
-  },
-  "/ezo-snippet-field/docs/tutorial-basics/congratulations-d08": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ezo-snippet-field-docs-tutorial-basics-congratulations-822-5c2"
-  },
-  "/ezo-snippet-field/docs/tutorial-basics/create-a-blog-post-a45": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ezo-snippet-field-docs-tutorial-basics-create-a-blog-post-533-401"
-  },
-  "/ezo-snippet-field/docs/tutorial-basics/create-a-document-7b8": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ezo-snippet-field-docs-tutorial-basics-create-a-document-1-e-4-8f8"
-  },
-  "/ezo-snippet-field/docs/tutorial-basics/create-a-page-762": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ezo-snippet-field-docs-tutorial-basics-create-a-page-5-c-8-58e"
-  },
-  "/ezo-snippet-field/docs/tutorial-basics/deploy-your-site-b5e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ezo-snippet-field-docs-tutorial-basics-deploy-your-sitef-55-149"
-  },
-  "/ezo-snippet-field/docs/tutorial-basics/markdown-features-4eb": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ezo-snippet-field-docs-tutorial-basics-markdown-features-18-c-28b"
-  },
-  "/ezo-snippet-field/docs/tutorial-extras/manage-docs-versions-2d9": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ezo-snippet-field-docs-tutorial-extras-manage-docs-versionsdff-fb1"
-  },
-  "/ezo-snippet-field/docs/tutorial-extras/translate-your-site-7df": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ezo-snippet-field-docs-tutorial-extras-translate-your-sitee-44-f3f"
-  },
   "/ezo-snippet-field/-7e7": {
     "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
     "__context": {
       "plugin": "plugin---ezo-snippet-field-markdown-pagea-74-ad3"
     },
     "config": "config---ezo-snippet-field-5-e-9-b92"
+  },
+  "/ezo-snippet-field/-972": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---ezo-snippet-field-aba-578"
+    }
+  },
+  "/ezo-snippet-field/-711": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---ezo-snippet-field-cc-4-ad9"
+  },
+  "/ezo-snippet-field/tags-ba1": {
+    "__comp": "__comp---theme-doc-tags-list-page-372-89e",
+    "__props": "__props---ezo-snippet-field-tagsf-0-b-ff6"
+  },
+  "/ezo-snippet-field/tags/beginner-7e2": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---ezo-snippet-field-tags-beginner-194-666"
+  },
+  "/ezo-snippet-field/tags/data-store-00f": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---ezo-snippet-field-tags-data-storef-70-4b2"
+  },
+  "/ezo-snippet-field/tags/gui-8be": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---ezo-snippet-field-tags-gui-726-98b"
+  },
+  "/ezo-snippet-field/tags/health-c6a": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---ezo-snippet-field-tags-health-2-dc-9df"
+  },
+  "/ezo-snippet-field/tags/lua-97d": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---ezo-snippet-field-tags-lua-4-d-9-a40"
+  },
+  "/ezo-snippet-field/tags/roblox-cfd": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---ezo-snippet-field-tags-robloxec-3-4d0"
+  },
+  "/ezo-snippet-field/tags/save-613": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---ezo-snippet-field-tags-save-953-1b5"
+  },
+  "/ezo-snippet-field/-72b": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/ezo-snippet-field/intro-437": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ezo-snippet-field-intro-0-e-3-17a"
+  },
+  "/ezo-snippet-field/overview-8c8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ezo-snippet-field-overview-1-db-c78"
+  },
+  "/ezo-snippet-field/snippets/click-detector-847": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ezo-snippet-field-snippets-click-detectora-64-17d"
+  },
+  "/ezo-snippet-field/snippets/datastore-save-a8a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ezo-snippet-field-snippets-datastore-save-98-a-4dc"
+  },
+  "/ezo-snippet-field/snippets/gui-health-bar-063": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ezo-snippet-field-snippets-gui-health-bar-0-d-2-29c"
+  },
+  "/ezo-snippet-field/tutorial-basics/congratulations-764": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ezo-snippet-field-tutorial-basics-congratulations-822-758"
+  },
+  "/ezo-snippet-field/tutorial-basics/create-a-blog-post-c64": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ezo-snippet-field-tutorial-basics-create-a-blog-post-533-3db"
+  },
+  "/ezo-snippet-field/tutorial-basics/create-a-document-b73": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ezo-snippet-field-tutorial-basics-create-a-document-1-e-4-f88"
+  },
+  "/ezo-snippet-field/tutorial-basics/create-a-page-2c5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ezo-snippet-field-tutorial-basics-create-a-page-5-c-8-b9e"
+  },
+  "/ezo-snippet-field/tutorial-basics/deploy-your-site-c4c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ezo-snippet-field-tutorial-basics-deploy-your-sitef-55-4f9"
+  },
+  "/ezo-snippet-field/tutorial-basics/markdown-features-2f4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ezo-snippet-field-tutorial-basics-markdown-features-18-c-0e4"
+  },
+  "/ezo-snippet-field/tutorial-extras/manage-docs-versions-61d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ezo-snippet-field-tutorial-extras-manage-docs-versionsdff-19f"
+  },
+  "/ezo-snippet-field/tutorial-extras/translate-your-site-1f7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ezo-snippet-field-tutorial-extras-translate-your-sitee-44-560"
   }
 }
