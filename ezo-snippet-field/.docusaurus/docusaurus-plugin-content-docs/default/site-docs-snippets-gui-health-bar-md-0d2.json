@@ -37,12 +37,8 @@
       "Health"
     ]
   },
-  "sidebar": "tutorialSidebar",
+  "sidebar": "ezoSidebar",
   "previous": {
-    "title": "Click Detector",
-    "permalink": "/ezo-snippet-field/docs/snippets/click-detector"
-  },
-  "next": {
     "title": "Save to DataStore",
     "permalink": "/ezo-snippet-field/docs/snippets/datastore-save"
   }

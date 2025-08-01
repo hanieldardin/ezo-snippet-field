@@ -82,7 +82,7 @@ export default {
       "items": [
         {
           "type": "docSidebar",
-          "sidebarId": "tutorialSidebar",
+          "sidebarId": "ezoSidebar",
           "position": "left",
           "label": "Tutorial"
         },

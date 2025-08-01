@@ -8,27 +8,27 @@
           "label": "Next",
           "isLast": true,
           "path": "/ezo-snippet-field/docs",
-          "mainDocId": "overview",
+          "mainDocId": "intro",
           "docs": [
             {
-              "id": "overview",
-              "path": "/ezo-snippet-field/docs/overview",
-              "sidebar": "tutorialSidebar"
+              "id": "intro",
+              "path": "/ezo-snippet-field/docs/intro",
+              "sidebar": "ezoSidebar"
             },
             {
               "id": "snippets/click-detector",
               "path": "/ezo-snippet-field/docs/snippets/click-detector",
-              "sidebar": "tutorialSidebar"
+              "sidebar": "ezoSidebar"
             },
             {
               "id": "snippets/datastore-save",
               "path": "/ezo-snippet-field/docs/snippets/datastore-save",
-              "sidebar": "tutorialSidebar"
+              "sidebar": "ezoSidebar"
             },
             {
               "id": "snippets/gui-health-bar",
               "path": "/ezo-snippet-field/docs/snippets/gui-health-bar",
-              "sidebar": "tutorialSidebar"
+              "sidebar": "ezoSidebar"
             },
             {
               "id": "tutorial-basics/congratulations",
@@ -65,10 +65,10 @@
           ],
           "draftIds": [],
           "sidebars": {
-            "tutorialSidebar": {
+            "ezoSidebar": {
               "link": {
-                "path": "/ezo-snippet-field/docs/overview",
-                "label": "overview"
+                "path": "/ezo-snippet-field/docs/intro",
+                "label": "intro"
               }
             }
           }

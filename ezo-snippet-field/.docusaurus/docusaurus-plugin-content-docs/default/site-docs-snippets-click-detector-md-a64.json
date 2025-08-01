@@ -37,13 +37,13 @@
       "Beginner"
     ]
   },
-  "sidebar": "tutorialSidebar",
+  "sidebar": "ezoSidebar",
   "previous": {
-    "title": "Overview",
-    "permalink": "/ezo-snippet-field/docs/overview"
+    "title": "Tutorial Intro",
+    "permalink": "/ezo-snippet-field/docs/intro"
   },
   "next": {
-    "title": "GUI Health Bar",
-    "permalink": "/ezo-snippet-field/docs/snippets/gui-health-bar"
+    "title": "Save to DataStore",
+    "permalink": "/ezo-snippet-field/docs/snippets/datastore-save"
   }
 }
