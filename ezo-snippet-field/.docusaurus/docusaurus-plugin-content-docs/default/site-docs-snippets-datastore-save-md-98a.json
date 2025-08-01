@@ -1,0 +1,45 @@
+{
+  "id": "snippets/datastore-save",
+  "title": "Save to DataStore",
+  "description": "Whisper Thought:",
+  "source": "@site/docs/snippets/datastore-save.md",
+  "sourceDirName": "snippets",
+  "slug": "/snippets/datastore-save",
+  "permalink": "/ezo-snippet-field/docs/snippets/datastore-save",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/snippets/datastore-save.md",
+  "tags": [
+    {
+      "inline": true,
+      "label": "Roblox",
+      "permalink": "/ezo-snippet-field/docs/tags/roblox"
+    },
+    {
+      "inline": true,
+      "label": "DataStore",
+      "permalink": "/ezo-snippet-field/docs/tags/data-store"
+    },
+    {
+      "inline": true,
+      "label": "Save",
+      "permalink": "/ezo-snippet-field/docs/tags/save"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "datastore-save",
+    "title": "Save to DataStore",
+    "sidebar_label": "Save to DataStore",
+    "tags": [
+      "Roblox",
+      "DataStore",
+      "Save"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "GUI Health Bar",
+    "permalink": "/ezo-snippet-field/docs/snippets/gui-health-bar"
+  }
+}

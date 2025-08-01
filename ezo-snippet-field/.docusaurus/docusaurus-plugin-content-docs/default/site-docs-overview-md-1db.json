@@ -1,0 +1,24 @@
+{
+  "id": "overview",
+  "title": "Welcome to the Snippet Field",
+  "description": "🌽 Welcome to the Snippet Field 🌽",
+  "source": "@site/docs/overview.md",
+  "sourceDirName": ".",
+  "slug": "/overview",
+  "permalink": "/ezo-snippet-field/docs/overview",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/overview.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "overview",
+    "title": "Welcome to the Snippet Field",
+    "sidebar_label": "Overview"
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Click Detector",
+    "permalink": "/ezo-snippet-field/docs/snippets/click-detector"
+  }
+}
